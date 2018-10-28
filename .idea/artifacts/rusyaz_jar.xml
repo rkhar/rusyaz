@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rusyaz:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rusyaz_jar</output-path>
+    <root id="archive" name="rusyaz.jar">
+      <element id="module-output" name="rusyaz" />
+    </root>
+  </artifact>
+</component>
